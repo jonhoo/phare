@@ -1,0 +1,3 @@
+Very simple start/stop script for the Python SimpleHTTPServer that can be started with python -m http.server in Python 3.
+This script merely provides a convenient way of starting and stopping it, and a directory for sharing (/srv/phare).
+The name comes from Python Http shARE. Silly, I know, but why not?
